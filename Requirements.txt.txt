@@ -1,0 +1,5 @@
+argparse
+python-whois
+dnspython
+requests
+webtech

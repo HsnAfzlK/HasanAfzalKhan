@@ -1,0 +1,43 @@
+
+--- WHOIS Lookup ---
+Time: 2025-06-19 22:06:34
+Domain: aiou.com.pk
+Resolved IP: 172.67.178.22
+Registrar: None
+Creation Date: 2024-08-02 00:00:00
+Expiration Date: 2026-08-02 00:00:00
+Name Servers: ['ivy.ns.cloudflare.com', 'trevor.ns.cloudflare.com']
+Emails: None
+
+--------------------------------------------------------------------------------
+
+--- DNS Enumeration ---
+Time: 2025-06-19 22:06:34
+Domain: aiou.com.pk
+Resolved IP: 172.67.178.22
+
+A Records:
+ - 104.21.31.152
+ - 172.67.178.22
+ - Failed to fetch MX records: The DNS response does not contain an answer to the question: aiou.com.pk. IN MX
+ - Failed to fetch TXT records: The DNS response does not contain an answer to the question: aiou.com.pk. IN TXT
+
+NS Records:
+ - ivy.ns.cloudflare.com.
+ - trevor.ns.cloudflare.com.
+
+--------------------------------------------------------------------------------
+
+--- Subdomain Enumeration ---
+Time: 2025-06-19 22:06:36
+Domain: aiou.com.pk
+ - enrollment.aiou.com.pk => Resolution Failed
+ - dts.aiou.com.pk => Resolution Failed
+ - mail.comune.aiou.com.pk => Resolution Failed
+ - www.aiou.com.pk => 172.67.178.22
+ - aiou.com.pk => 172.67.178.22
+ - *.aiou.com.pk => Resolution Failed
+ - smtp.mail.aiou.com.pk => Resolution Failed
+ - support.aiou.com.pk => Resolution Failed
+
+--------------------------------------------------------------------------------

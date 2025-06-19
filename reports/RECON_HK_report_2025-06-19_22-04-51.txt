@@ -1,0 +1,12 @@
+
+--- WHOIS Lookup ---
+Time: 2025-06-19 22:04:54
+Domain: google.com
+Resolved IP: 172.217.19.238
+Registrar: MarkMonitor, Inc.
+Creation Date: [datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=datetime.timezone.utc)]
+Expiration Date: [datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=datetime.timezone.utc)]
+Name Servers: ['NS1.GOOGLE.COM', 'NS2.GOOGLE.COM', 'NS3.GOOGLE.COM', 'NS4.GOOGLE.COM']
+Emails: ['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']
+
+--------------------------------------------------------------------------------
