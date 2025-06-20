@@ -27,7 +27,7 @@ This tool supports the following reconnaissance modules:
   **Clone the repo** or manually create the folder structure:
 
 ```bash
-   git clone git clone https://github.com/HsnAfzlK/H-K
+   git clone git clone https://github.com/HsnAfzlK/HasanAfzalKhan
    cd RECON_HK
 
 3. ## Installation Dependencies
